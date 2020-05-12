@@ -62,8 +62,11 @@ client/
 ```
 
 <h1>Comments</h1>
+
 * This project was developed by myself and 3 other developers in our senior software engineering course. Two students Karan and Omar [social handles will be linked below] were responsible for building the front end while I build the backend and one more student by the name of Aman did QA and assisted me in backend design/development
+
 * This app took us 16 weeks to ship and we worked tremendously as a team. I do not take full credit for this code, as I was an integral part of the team, but not the sole contributor.
+
 * Social Links for my fellow classmates:
    - (Omar Aziz) https://www.linkedin.com/in/omar-aziz-40b715132/
    - (Karan Monga) https://www.linkedin.com/in/karanmongaa/
